@@ -1,4 +1,4 @@
-# shakesperian-pokemon
+# shakespearean-pokemon
 
 Empty project.
 
