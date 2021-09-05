@@ -1,0 +1,9 @@
+{
+  "workbench.colorCustomizations": {},
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "git.ignoreLimitWarning": true,
+  "editor.tabSize": 4
+}
